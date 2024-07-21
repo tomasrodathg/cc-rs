@@ -1,0 +1,2 @@
+# cc-rs
+CodeCrafters repo
